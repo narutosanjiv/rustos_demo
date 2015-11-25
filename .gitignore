@@ -1,0 +1,6 @@
+/build
+# Ignore configuration files
+.env
+env_vars
+Procfile
+
